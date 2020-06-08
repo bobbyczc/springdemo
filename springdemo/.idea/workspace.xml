@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59e88373-5b62-4cba-9135-5bcd4e590d3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cw5rY6E7mLxE1g8k9S8PCN6L0C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59e88373-5b62-4cba-9135-5bcd4e590d3d" name="Default Changelist" comment="" />
+      <created>1591427014754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591427014754</updated>
+      <workItem from="1591427017465" duration="12405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="754" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1591427949283">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="754" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1591427949283" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1591427184349">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1591427184349" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1591427184349">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1591427184349" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1591427184349">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1591427184349" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1591427184349">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1591427184349" />
+    <state x="330" y="88" key="Maven.ArtifactSearchDialog" timestamp="1591427595758">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="88" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1591427595758" />
+    <state x="865" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1591431916947">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="865" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1591431916947" />
+  </component>
+</project>
